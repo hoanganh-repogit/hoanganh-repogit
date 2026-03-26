@@ -113,5 +113,5 @@ I would be happy to:
 ## 📞 Contact Me
 
 - 📧 Email: [nguyenthidinh652@gmail.com]
-- 💼 LinkedIn: [[your-linkedin-profile](https://www.linkedin.com/in/ho%C3%A0ng-v%C4%83n-anh-831421266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmHN95Di7SPmGjK2SOaS1FQ%3D%3D)]
-- 📖 Facebook: [[your-blog](https://www.facebook.com/hoang.van.anh.271908)]
+- 💼 LinkedIn: [[My-linkedin-profile](https://www.linkedin.com/in/ho%C3%A0ng-v%C4%83n-anh-831421266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmHN95Di7SPmGjK2SOaS1FQ%3D%3D)]
+- 📖 Facebook: [[My-facebook](https://www.facebook.com/hoang.van.anh.271908)]
