@@ -14,8 +14,8 @@ Welcome to my GitHub! I am an **AI/ML Engineer** passionate about artificial int
 ## 🛠️ Technologies & Skills
 
 **Programming Languages:**
-- Python 🐍 (specialized)
-- JavaScript / TypeScript
+- Python (specialized)
+- JavaScript
 - SQL
 - R
 
@@ -23,7 +23,6 @@ Welcome to my GitHub! I am an **AI/ML Engineer** passionate about artificial int
 - TensorFlow & Keras
 - PyTorch
 - Scikit-learn
-- XGBoost, LightGBM
 - Pandas, NumPy, Matplotlib
 
 **AI Domains:**
@@ -112,5 +111,5 @@ I would be happy to:
 ## 📞 Contact Me
 
 - 📧 Email: [nguyenthidinh652@gmail.com]
-- 💼 LinkedIn: [[your-linkedin-profile](https://www.linkedin.com/in/ho%C3%A0ng-v%C4%83n-anh-831421266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmHN95Di7SPmGjK2SOaS1FQ%3D%3D)]
-- 📖 Facebook: [[your-blog](https://www.facebook.com/hoang.van.anh.271908)]
+- 💼 LinkedIn: [[My-linkedin-profile](https://www.linkedin.com/in/ho%C3%A0ng-v%C4%83n-anh-831421266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfsO0V6JTSD6VHG3UTUvAPw%3D%3D)]
+- 📖 Facebook: [[My-blog]([https://www.facebook.com/hoang.van.anh.271908](https://www.facebook.com/hoang.van.anh.271908))]
