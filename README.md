@@ -58,10 +58,9 @@ Browse through my repositories to explore AI/ML projects such as:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoanganh-repogit&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEN_THAT_CUA_BAN&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanganh-repogit&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TEN_THAT_CUA_BAN&layout=compact&theme=radical)
 ## 🎓 Areas of Expertise
 
 ### Natural Language Processing (NLP)
