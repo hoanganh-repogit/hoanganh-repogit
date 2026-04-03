@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Hoàng Anh
 
-Welcome to my GitHub! I am an **AI/ML Engineer** passionate about artificial intelligence and machine learning.
+🌟 Welcome to my GitHub!
+This is my project portfolio where I showcase my work in AI/ML and software development.
+I'm actively open to new opportunities — feel free to reach out!
 
 ## 🎯 About Me
 
