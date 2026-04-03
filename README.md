@@ -50,11 +50,9 @@ Welcome to my GitHub! I am an **AI/ML Engineer** passionate about artificial int
 
 Browse through my repositories to explore AI/ML projects such as:
 
-- 🔗 **[NLP Projects]** - Building chatbots, sentiment analysis, and text classification
-- 🔗 **[Computer Vision Projects]** - Object detection, image classification, and face recognition
-- 🔗 **[Deep Learning Projects]** - Neural networks, CNN, and RNN architectures
-- 🔗 **[Data Analysis Projects]** - Large-scale data analysis and extracting insights from data
-
+- 🔗 **Meeting_Summarization** – Automated meeting summarization, key insight extraction, and note generation.
+- 🔗 **Anime_Sketch_Colorization_Pair** – Automatic anime sketch colorization using paired sketch–color image data.
+- 🔗 **RAG Chatbot** – Developing a retrieval-augmented chatbot for question answering based on external knowledge sources.
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEN_THAT_CUA_BAN&show_icons=true&theme=radical)
