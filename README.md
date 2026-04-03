@@ -55,9 +55,11 @@ Browse through my repositories to explore AI/ML projects such as:
 - 🔗 **RAG Chatbot** – Developing a retrieval-augmented chatbot for question answering based on external knowledge sources.
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-git-master-gruvboxs-projects.vercel.app/api?username=hoanganh-repogit&show_icons=true&theme=radical)
+<!-- GitHub Streak Stats - rất phổ biến, ổn định -->
+![GitHub Streak](https://streak-stats.demolab.com?user=hoanganh-repogit&theme=radical)
 
-![Top Languages](https://github-readme-stats-git-master-gruvboxs-projects.vercel.app/api/top-langs/?username=hoanganh-repogit&layout=compact&theme=radical)
+<!-- Top Languages từ service khác -->
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hoanganh-repogit&layout=compact&theme=radical)
 ## 🎓 Areas of Expertise
 
 ### Natural Language Processing (NLP)
