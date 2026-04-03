@@ -3,7 +3,7 @@
 🌟 Welcome to my GitHub!
 This is my project portfolio where I showcase my work in AI/ML and software development.
 I'm actively open to new opportunities — feel free to reach out!
-
+![My Porfolio](https://hoanganh-repogit.github.io/My_Porfolio/)
 ## 🎯 About Me
 
 - 🤖 Machine Learning & Deep Learning Enthusiast
