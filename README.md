@@ -82,30 +82,6 @@ Browse through my repositories to explore AI/ML projects such as:
 - Generative models (GAN, VAE)
 - Transfer learning
 
-## 🚀 Recent Projects
-
-- 🔄 Fine-tuning LLMs for specific tasks
-- 📱 Building APIs for ML models
-- 🎨 Experimenting with new neural network architectures
-- 📊 Analyzing large-scale data from various sources
-
-## 📚 Resources & Learning
-
-**Courses & books I follow:**
-- Deep Learning Specialization (Andrew Ng)
-- Fast.ai courses
-- Papers from arXiv
-- Kaggle competitions
-
-## 🤝 Collaboration & Contributions
-
-I would be happy to:
-- 🤝 Collaborate on open-source AI/ML projects
-- 💬 Exchange ideas about machine learning
-- 📖 Share knowledge and best practices
-- 🔬 Conduct research with the community
-- 👥 Help beginners get started with AI
-
 ## 📞 Contact Me
 
 - 📧 Email: [nguyenthidinh652@gmail.com]
