@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hoàng Anh
+# 👋 Hi, I'm Hoàng Văn Anh
 
 🌟 Welcome to my GitHub!
 This is my project portfolio where I showcase my work in AI/ML and software development.
