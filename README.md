@@ -88,6 +88,6 @@ Browse through my repositories to explore AI/ML projects such as:
 
 ## 📞 Contact Me
 
-- 📧 Email: [nguyenthidinh652@gmail.com]
+- 📧 Email: [hoangvananhgithub@gmail.com]
 - 💼 LinkedIn: [[My-linkedin-profile](https://www.linkedin.com/in/ho%C3%A0ng-v%C4%83n-anh-831421266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfsO0V6JTSD6VHG3UTUvAPw%3D%3D)]
 - 📖 Facebook: [[My-blog](https://www.facebook.com/hoang.van.anh.271908)]
